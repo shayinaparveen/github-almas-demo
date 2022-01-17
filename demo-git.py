@@ -1,1 +1,4 @@
-this is sample file
+
+C:\Users\ashaikha\pythonProject1\pythonProject1\git-dmo
+C:\Users\ashaikha\pythonProject1\pythonProject1\git-dmo
+C:\Users\ashaikha\pythonProject1\pythonProject1\git-dmo
